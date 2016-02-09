@@ -53,7 +53,7 @@ class VotingController extends Controller
         $docId = md5(uniqid(rand(), true));
 
         //Save as Pdf 
-        $pdf = new Pdf($storagePath.'reg.pdf');
+        $pdf = new Pdf($storagePath.'template.pdf');
         $pdf->fillForm($fdf->getFileName())
             ->saveAs($storagePath."generated/".$docId.'.pdf');
 
