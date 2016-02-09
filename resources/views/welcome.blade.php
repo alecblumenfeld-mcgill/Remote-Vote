@@ -17,7 +17,7 @@
 
       <div class="jumbotron">
         <h1 class="text-center"> <i class="em em-us"></i>Vote from Anywhere!<i class="em em-us"></i></h1>
-        <p class="lead">Fill out the following form and we will get you started to being registered to vote in the Vermont General Election.</p>
+        <p class="lead">Fill out the following form and we will send a Absentee ballot registration form to the Vermont clerk’s office on your behalf. </p>
       </div>
 
       <div class="row marketing">
