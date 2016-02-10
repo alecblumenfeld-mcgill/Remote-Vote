@@ -18,6 +18,7 @@
       <div class="jumbotron">
         <h1 class="text-center"> <i class="em em-us"></i>Thanks!<i class="em em-us"></i></h1>
       </div>
+      <iframe src="//giphy.com/embed/8s6BSIwRbtLO0" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/barack-obama-john-boehner-state-of-the-union-8s6BSIwRbtLO0">via GIPHY</a></p>
 
       {{ Form::open(['url' => '/thanks']) }}
             {!! csrf_field() !!}
